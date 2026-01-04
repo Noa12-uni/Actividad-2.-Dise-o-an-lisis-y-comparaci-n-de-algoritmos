@@ -38,6 +38,6 @@ consumo de batería.
 
 ## ▶️ Ejecución
 
-Para ejecutar el proyecto sobre una instancia concreta:
+Para ejecutar los experimentos, basta con lanzar el script principal:
 
 python main.py
